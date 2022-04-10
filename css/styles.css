@@ -7,7 +7,7 @@
   --background-dark: #2f303a;
 }
 body {
-  font-family: 'Roboto', Tahoma, sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: var(--title-color);
 }
 .link {
